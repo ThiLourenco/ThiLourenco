@@ -1,40 +1,6 @@
-<!-- ### Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">   I'm Thiago
-
-technology-loving and coding  :computer::notes::leaves::evergreen_tree::palm_tree: <br>
-
-<img src="./asserts/js.gif" width="800"/>
-
-```javascript
-const thiago = {
-    pronouns: ['He', 'Him'],
-    code: ['Javascript', 'Typescript'],
-    aboutMe: ['Studying', 'web dev', 'Music lover', 'Nature lover'],
-        technologies:{
-        backEnd: {
-           js: ['node', 'express', 'hapi']
-        },
-        fronEnd: {
-           js: ['React'],
-           css: ['Bootstrap", "Sass']
-        },
-        mobile: ['React-Native'],
-        database: ['Mysql', 'Mongodb', 'Postgres'],
-        serverless: ['Azure-functions','AWS-lambda'],
-        devOps: ['AWS', 'Azure', 'Docker']
-    },
-
-    phrase: 'follow your dreams, making art'
-};
-```
-
-
-<!-- [![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ThiLourenco&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=1100d1&icon_color=1100d1&text_color=FFFFFF&bg_color=8,000000,00ad26)](https://github.com/ThiLourenco)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiLourenco&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=1100d1&icon_color=1100d1&text_color=FFFFFF&bg_color=5,000000,00ad26&layout=compact&hide=css,html)](https://github.com/ThiLourenco) 
-
-<span>[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span> -->
-
 ### Hi <img src="./asserts/hi.gif" width="30">, I´m Thiago Lourenço
 
-I'm an eternal student of programming. I'm an aspiring web developer. I love learning about new technologies that I can use to solve real-life problems. I'm currently studying about the backend.👨‍💻.
+I'm an eternal student of programming. I'm an aspiring full stack developer. I love learning about new technologies that I can use to solve real-life problems. I'm currently studying about the backend.👨‍💻.
 
 
 <img align="right" height="250" width="575" alt="" src="./asserts/js.gif" />
