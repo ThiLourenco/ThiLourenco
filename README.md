@@ -8,8 +8,8 @@ I'm an eternal student of programming. I'm an aspiring full stack developer. I l
  
 ### About me
 - 🚀 I'm currently learning about Node.js and improving my Javascript, Typescript, React.js and React-Native skills
-- 📫 How to reach me: thiago.l17@yahoo.com </br>
-<span>[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
+
+- <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
 
 ### Languages and Tools
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
