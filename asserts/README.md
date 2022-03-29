@@ -26,3 +26,4 @@ I'm an eternal student of programming. I'm an aspiring full stack developer. I l
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
 [linkedin]: https://www.linkedin.com/in/thilourenco/
+
