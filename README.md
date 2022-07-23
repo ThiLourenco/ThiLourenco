@@ -7,7 +7,7 @@ I'm an aspiring full stack developer. I love learning about new technologies tha
 
  
 ### About me
-- 🚀 I'm currently learning about Node.js and improving my Javascript, Typescript, React.js and React-Native skills
+- 🚀 I describe myself as a passionate developer who loves coding, open source, and the web platform :blue_heart:.
 
 - <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
 
