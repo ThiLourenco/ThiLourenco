@@ -1,6 +1,6 @@
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
-I'm an aspiring full stack developer. I love learning about new technologies that I can use to solve real-life problems. I'm currently studying about the front-end.👨‍💻.
+I'm an aspiring full stack developer. I love learning about new technologies that I can use to solve real-life problems. I'm currently studying front end.💻
 
 
 <img align="right" height="250" width="575" alt="" src="./assets/js.gif" />
