@@ -8,7 +8,7 @@
 
 ###### 🚀 I describe myself as a passionate developer who loves coding, open source, and the web platform :blue_heart:.
 
-###### - <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
+###### <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
 
 <div>
 <img height="250" width="575" alt="" src="./assets/js.gif" />
