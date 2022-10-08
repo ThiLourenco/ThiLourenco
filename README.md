@@ -14,7 +14,7 @@
 <img height="250" width="575" alt="" src="./assets/js.gif" />
 </div>
 
-### 🚀 Technologies and Tools
+### 🚀 Technologies and Tools ⚙
 
 <div class="row">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs" />
