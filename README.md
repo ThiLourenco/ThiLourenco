@@ -12,7 +12,7 @@
 
 - <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
 
-### 🚀 Technologies and Tools ⚙
+### 🚀 Technologies and Tools
 
 <div class="row">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs" />
