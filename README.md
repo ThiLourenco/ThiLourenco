@@ -27,6 +27,7 @@
   <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
   <img src="https://cdn.svgporn.com/logos/react.svg"  height="30" alt="React"/>
   <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg"  height="30" alt="Next"/>
+  <img src="https://cdn.svgporn.com/logos/graphql.svg"  height="30" alt="Graphql"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux">
   <img src="https://cdn.svgporn.com/logos/gnu.svg" height="30" alt="GNU">
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="Docker">
