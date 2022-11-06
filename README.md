@@ -35,3 +35,15 @@
 </div>
 
 [linkedin]: https://www.linkedin.com/in/thilourenco/
+
+
+<summary>📈&ensp; <i>A c t i v i t y</i> &ensp;📈</summary>
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=thilourenco&theme=tokyo-night&hide_border=true">
+<br><br>
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilourenco&langs_count=8&theme=tokyonight&hide_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=thilourenco&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=tokyonight&hide_border=true">
+</div>
+
