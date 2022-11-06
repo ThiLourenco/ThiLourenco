@@ -37,7 +37,7 @@
 [linkedin]: https://www.linkedin.com/in/thilourenco/
 
 
-<summary>📈&ensp; <i>A c t i v i t y</i> &ensp;📈</summary>
+
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thilourenco&theme=tokyo-night&hide_border=true">
 <br><br>
