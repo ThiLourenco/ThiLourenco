@@ -14,6 +14,32 @@
 <img height="250" width="575" alt="" src="./assets/js.gif" />
 </div>
 
+### Learn resources, enjoy it
+<details>
+  <summary><b>Free online courses</b>💜</summary>
+  
+  ## in English
+  * [FreeCodeCamp](https://www.freecodecamp.org)
+  * [SoloLearn](https://www.sololearn.com)
+  * [Coursera](https://www.coursera.org)
+  * [Khan Academy](https://www.khanacademy.org/)
+  * [Harvard University](https://online-learning.harvard.edu/catalog/free)
+  * [Udacity](https://www.udacity.com)
+  * [Alison](https://alison.com)
+  
+  * [Apache Airflow | Learning path](https://github.com/jghoman/awesome-apache-airflow)
+ 
+  ## in Portuguese
+  * [Digital Innovation One](http://dio.me)
+  * [Gama Accademy](https://www.gama.academy)
+  * [Rocketseat](https://rocketseat.com.br)
+  * [Fundação Bradesco](https://www.ev.org.br/Cursos)
+  * [TIM Tec](https://cursos.timtec.com.br/courses)
+  * [BRASIL MAIS DIGITAL](http://www.brasilmaisdigital.org.br/index.php/pt-br/)
+  * [Centro Paula Souza](https://portalgeead.cps.sp.gov.br/mooc)
+  * [Kultivi](https://kultivi.com)
+</details>
+
 ### 🚀 Technologies and Tools ⚙
 
 <div class="row">
