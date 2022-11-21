@@ -16,7 +16,7 @@
 
 ### Learn resources, enjoy it
 <details>
-  <summary><b>Free online courses</b>💜</summary>
+  <summary><b>Free online courses</b></summary>
   
   ## in English
   * [FreeCodeCamp](https://www.freecodecamp.org)
