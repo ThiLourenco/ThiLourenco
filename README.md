@@ -61,11 +61,10 @@
 </div>
 
 [linkedin]: https://www.linkedin.com/in/thilourenco/
+</br>
 
+[![thilourenco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thilourenco&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=thilourenco&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilourenco&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
