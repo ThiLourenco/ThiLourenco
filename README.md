@@ -45,9 +45,11 @@
 <div class="row">
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" height="30" alt="Express" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" height="30" alt="NestJS" />
   <img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="Javascript"/>
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="Typescript" />
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="Git">
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" height="30" alt="Jest">
   <img src="https://img.icons8.com/color/452/mongodb.png" height="35" alt="MongoDB" />
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
   <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
