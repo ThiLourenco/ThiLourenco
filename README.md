@@ -71,8 +71,10 @@ Being a developer is a journey, where the next stop is the solution to another p
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thilourenco&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilourenco&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thilourenco&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](https://github-readme-stats.vercel.app/api?username=thilourenco&show_icons=true&custom_title=Thiago's%20Github%20Stats&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=tokyonight&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thilourenco&theme=tokyonight)
-| :-: | :-: | :-: |
+| ![](https://github-readme-stats.vercel.app/api?username=thilourenco&show_icons=true&custom_title=Thiago's%20Github%20Stats&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=tokyonight&hide_border=true)
+| :-: | :-: |
 
 
-[![thilourenco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thilourenco&theme=tokyo-night&hide_border=true)](https://github.com/thilourenco/github-readme-activity-graph)
+<!-- [![thilourenco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thilourenco&theme=tokyo-night&hide_border=true)](https://github.com/thilourenco/github-readme-activity-graph) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thilourenco&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thilourenco&theme=tokyonight) 
+| :-: | :-: |
