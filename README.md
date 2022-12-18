@@ -40,7 +40,7 @@ Being a developer is a journey, where the next stop is the solution to another p
   * [Kultivi](https://kultivi.com)
 </details>
 
-###Technologies and Tools ⚙
+### Technologies and Tools ⚙
 <details>
   <summary><b>Technologies</b></summary>
 <div>
