@@ -1,12 +1,12 @@
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
-###### Solving a problem is good, but avoiding it is even better 🔥
+Solving a problem is good, but avoiding it is even better 🔥
 
-###### Being a developer is a journey, where the next stop is the solution to another problem. 💻
+Being a developer is a journey, where the next stop is the solution to another problem. 💻
 
 ### About me
 
-###### 🚀 I describe myself as a passionate developer who loves coding, open source, and the web platform :blue_heart:.
+🚀 I describe myself as a passionate developer who loves coding, open source, and the web platform :blue_heart:.
 
 ###### <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
 
@@ -65,12 +65,12 @@
 [linkedin]: https://www.linkedin.com/in/thilourenco/
 </br>
 
-[![thilourenco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thilourenco&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilourenco&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=thilourenco&show_icons=true&custom_title=Thiago's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=tokyonight&hide_border=true">
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thilourenco&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilourenco&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thilourenco&theme=nord_dark) |
+| :-: | :-: | :-: |
 
+| ![](https://github-readme-stats.vercel.app/api?username=thilourenco&show_icons=true&custom_title=Thiago's%20Github%20Stats&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=tokyonight&hide_border=true)
+| :-: | :-: |
+
+
+[![thilourenco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thilourenco&theme=tokyo-night&hide_border=true)](https://github.com/thilourenco/github-readme-activity-graph)
