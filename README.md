@@ -1,46 +1,18 @@
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
-Solving a problem is good, but avoiding it is even better 🔥
+I'm passionate about technology! I had my first contact with computers when I was 10 years old and since then I've been discovering a little more about this wonderful world, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
+I'm describe myself as a passionate developer who loves coding, open source, and the web platform :blue_heart:.
 
-Being a developer is a journey, where the next stop is the solution to another problem. 💻
+<br />
 
-### About me
-
-🚀 I describe myself as a passionate developer who loves coding, open source, and the web platform :blue_heart:.
-
-###### <span> 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]</span>
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thilourenco/)](https://www.linkedin.com/in/thilourenco/)
+![Profile views](https://gpvc.arturio.dev/thilourenco) </span>
 
 <div>
 <img height="250" width="575" alt="" src="./assets/js.gif" />
 </div>
+ <br />
 
-### Learn resources, enjoy it
-<details>
-  <summary><b>Free online courses</b></summary>
-  
-  ## in English
-  * [FreeCodeCamp](https://www.freecodecamp.org)
-  * [SoloLearn](https://www.sololearn.com)
-  * [Coursera](https://www.coursera.org)
-  * [Khan Academy](https://www.khanacademy.org/)
-  * [Harvard University](https://online-learning.harvard.edu/catalog/free)
-  * [Udacity](https://www.udacity.com)
-  * [Alison](https://alison.com)
-  
-  * [Apache Airflow | Learning path](https://github.com/jghoman/awesome-apache-airflow)
- 
-  ## in Portuguese
-  * [Digital Innovation One](http://dio.me)
-  * [Gama Accademy](https://www.gama.academy)
-  * [Rocketseat](https://rocketseat.com.br)
-  * [Fundação Bradesco](https://www.ev.org.br/Cursos)
-  * [TIM Tec](https://cursos.timtec.com.br/courses)
-  * [BRASIL MAIS DIGITAL](http://www.brasilmaisdigital.org.br/index.php/pt-br/)
-  * [Centro Paula Souza](https://portalgeead.cps.sp.gov.br/mooc)
-  * [Kultivi](https://kultivi.com)
-</details>
-
-### Technologies and Tools ⚙
 <details>
   <summary><b>Technologies</b></summary>
 <div>
@@ -64,9 +36,7 @@ Being a developer is a journey, where the next stop is the solution to another p
 </div>
 </details>
 
-[linkedin]: https://www.linkedin.com/in/thilourenco/
 </br>
-
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thilourenco&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilourenco&hide=Html&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thilourenco&theme=github) |
 | :-: | :-: | :-: |
