@@ -27,7 +27,9 @@ I'm describe myself as a passionate developer who loves coding, open source, and
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
   <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
   <img src="https://cdn.svgporn.com/logos/react.svg"  height="30" alt="React"/>
+  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"  height="30" alt="Tailwindcss"/>
   <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg"  height="30" alt="Next"/>
+  <img src="https://cdn.svgporn.com/logos/vercel-icon.svg"  height="30" alt="Vercel"/>
   <img src="https://cdn.svgporn.com/logos/graphql.svg"  height="30" alt="Graphql"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux">
   <img src="https://cdn.svgporn.com/logos/gnu.svg" height="30" alt="GNU">
@@ -41,8 +43,8 @@ I'm describe myself as a passionate developer who loves coding, open source, and
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thilourenco&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilourenco&hide=Html&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thilourenco&theme=github) |
 | :-: | :-: | :-: |
 
- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=thilourenco&layout=compact&theme=github)](https://github.com/thilourenco/github-readme-stats) | ![](https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=github&hide_border=true)
-| :-: | :-: |
+ <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=thilourenco&layout=compact&theme=github)](https://github.com/thilourenco/github-readme-stats) | ![](https://github-readme-streak-stats.herokuapp.com/?user=thilourenco&theme=github&hide_border=true)
+| :-: | :-: | -->
 
 <!-- [![thilourenco's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thilourenco&theme=tokyo-night&hide_border=true)](https://github.com/thilourenco/github-readme-activity-graph) 
 
