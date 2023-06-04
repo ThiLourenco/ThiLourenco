@@ -5,12 +5,13 @@ I'm describe myself as a passionate developer who loves coding, open source, and
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thilourenco/)](https://www.linkedin.com/in/thilourenco/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-/?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thilourenco/)](https://www.linkedin.com/in/thilourenco/)  [![Linkedin Badge](https://img.shields.io/badge/Portfolio-thilourenco-blue)](https://thilourenco.dev.br) 
+
 <!-- ![Profile views](https://gpvc.arturio.dev/thilourenco) </span> -->
 
-<div>
+<!-- <div>
 <img height="250" width="575" alt="" src="./assets/js.gif" />
-</div>
+</div> -->
  <br />
 
 <details>
