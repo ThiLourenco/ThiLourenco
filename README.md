@@ -7,7 +7,7 @@
 - 🎮 I'm having fun studying Python and ML models in JavaScript
 - 💙 I’m passionate about coding
 - 💻 I seek to learn more and more about back-end
-- 🇧🇷 Living in Rio de Janeiro, Brazil <br> 
+- 🇧🇷 Living in Rio de Janeiro, Brasil <br> 
 
  "Blessed, protected, enlightened, happy, grateful for life and guided by God ✨"
 
