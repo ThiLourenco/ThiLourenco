@@ -3,10 +3,9 @@
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
 - 📖 Software Engineering Student
-- 📚 I’m currently learning TypeScript and NextJS
-- 🎮 I'm having fun studying Python and ML models in JavaScript
+- 📚 I’m currently learning Front-end using TypeScript and NextJS
+- 🎮 I'm having fun learning Python
 - 💙 I’m passionate about coding
-- 💻 I seek to learn more and more about back-end
 - 🇧🇷 Living in Rio de Janeiro, Brasil <br> 
 
  "Blessed, protected, enlightened, happy, grateful for life and guided by God ✨"
