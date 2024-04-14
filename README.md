@@ -29,9 +29,10 @@
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="Typescript" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" height="30" alt="Jest">
   <img src="https://img.icons8.com/color/452/mongodb.png" height="35" alt="MongoDB" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" height="30" alt="Jest">
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
   <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg"  height="30" alt="React"/>
+  <img src="https://cdn.svgporn.com/logos/react-query-icon.svg"  height="30" alt="React Query"/>
   <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg"  height="30" alt="Next"/>
   <img src="https://cdn.svgporn.com/logos/vercel-icon.svg"  height="30" alt="Vercel"/>
   <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"  height="30" alt="Tailwindcss"/>
