@@ -32,9 +32,9 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" height="30" alt="Jest">
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
   <img src="https://cdn.svgporn.com/logos/redis.svg"  height="30" alt="Redis"/>
+  <img src="https://cdn.svgporn.com/logos/vercel-icon.svg"  height="30" alt="Vercel"/>
   <img src="https://cdn.svgporn.com/logos/react-query-icon.svg"  height="30" alt="React Query"/>
   <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg"  height="30" alt="Next"/>
-  <img src="https://cdn.svgporn.com/logos/vercel-icon.svg"  height="30" alt="Vercel"/>
   <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"  height="30" alt="Tailwindcss"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux">
   <img src="https://cdn.svgporn.com/logos/gnu.svg" height="30" alt="GNU">
