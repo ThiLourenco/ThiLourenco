@@ -2,11 +2,11 @@
 
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
-- 📖 Software Engineering Student
-- 📚 I’m currently learning Front-end using TypeScript and NextJS
-- 🎮 I'm having fun learning Python
+- 📖 Software Engineering
+- 📚 I’m currently learning PL/SQL and Nodejs
+- 🎮 I'm having fun learning Python with IA
 - 💙 I’m passionate about coding
-- 🇧🇷 Living in Rio de Janeiro, Brasil <br> 
+- 🇧🇷 Living in Rio de Janeiro, Brasil <br>
 
  "Blessed, protected, enlightened, happy, grateful for life and guided by God ✨"
 
@@ -27,7 +27,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" height="30" alt="NestJS" />
   <img src="https://cdn.svgporn.com/logos/javascript.svg" height="30" alt="Javascript"/>
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="30" alt="Typescript" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" height="30" alt="Jest">
   <img src="https://img.icons8.com/color/452/mongodb.png" height="35" alt="MongoDB" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" height="30" alt="Jest">
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="30" alt="PostgreSQL"/>
@@ -37,11 +36,10 @@
   <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg"  height="30" alt="Next"/>
   <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"  height="30" alt="Tailwindcss"/>
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux">
-  <img src="https://cdn.svgporn.com/logos/gnu.svg" height="30" alt="GNU">
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="Docker">
+  <img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python">
 </div>
 </details>
-
 </br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thilourenco&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thilourenco&hide=Html&theme=github) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thilourenco&theme=github) |
