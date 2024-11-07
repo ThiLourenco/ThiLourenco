@@ -3,8 +3,8 @@
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
 - 📖 Software Engineering
-- 📚 I’m currently learning PL/SQL and Nodejs
-- 🎮 I'm having fun learning Python with IA
+- 📚 I’m currently learning Python and Nodejs
+- 🎮 I'm having fun learning AI
 - 💙 I’m passionate about coding
 - 🇧🇷 Living in Rio de Janeiro, Brasil <br>
 
