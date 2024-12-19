@@ -38,6 +38,7 @@
   <img src="https://cdn.svgporn.com/logos/linux-tux.svg" height="30" alt="Linux">
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" height="30" alt="Docker">
   <img src="https://cdn.svgporn.com/logos/python.svg" height="30" alt="Python">
+  <img src="https://cdn.svgporn.com/logos/flask.svg" height="30" alt="Flask">
 </div>
 </details>
 </br>
