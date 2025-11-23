@@ -3,9 +3,10 @@
 ### Hi <img src="./assets/hi.gif" width="30">, I´m Thiago Lourenço
 
 - 📖 Software Engineering
-- 📚 I’m currently learning Python and Nodejs
-- 🎮 I'm having fun learning AI
+- 📚 I’m currently learning Architecture Software
+- 🎮 I'm having fun learning AI agent
 - 💙 I’m passionate about coding
+- 🎯 Always focused
 - 🇧🇷 Living in Rio de Janeiro, Brasil <br>
 
  "Blessed, protected, enlightened, happy, grateful for life and guided by God ✨"
@@ -19,7 +20,7 @@
  <br />
 
 <details>
-  <summary><b>Technologies</b></summary>
+  <summary><b>Main Technologies</b></summary>
 <div>
 <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="30" alt="Nodejs" />
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/express_original_logo_icon_146527.png" height="30" alt="Express" />
